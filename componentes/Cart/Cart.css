@@ -1,0 +1,15 @@
+.botones {
+    width:fit-content;
+    height: 2rem;
+    background-color: rgb(122, 75, 5);
+    color: azure;
+    align-content: center;
+    margin-left: 1rem;
+
+}
+.contenedor {
+
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+}

@@ -1,0 +1,20 @@
+.botonChico {
+    width: 2rem;
+    height: 2rem;
+    background-color: rgb(122, 75, 5);
+    color: azure;
+    align-content: center;
+}
+
+.botonAgregar{
+    width:fit-content;
+    height: 2rem;
+    background-color: rgb(122, 75, 5);
+    color: azure;
+    align-content: center;
+
+}
+.botones {
+        display: inline-block;
+        display: flex;
+}

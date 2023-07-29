@@ -1,0 +1,10 @@
+.botones {
+    width:fit-content;
+    height: 2rem;
+    background-color: rgb(122, 75, 5);
+    color: azure;
+    align-content: center;
+}
+h4 {
+    text-decoration:underline;
+}
